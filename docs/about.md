@@ -1,18 +1,10 @@
 ---
 layout: default
 title: About
-permalink: /about/
 ---
+# The Floating Lands
+The Floating Lands is the name of a fantasy world which has two peculiar characteristics, it's compromised by floating islands from varying sizes and it roams across the multiverse in it's own pocket dimension, which connects with whichever world its visiting at the moment. It's the also the world where I run D&D campaigns.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Maintainer: Nicholas Mc-Donnell (<namcdonnell@uc.cl>)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[Index](../index)
