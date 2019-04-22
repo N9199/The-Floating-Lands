@@ -1,6 +1,6 @@
 ---
 title: "NPCs Index"
 ---
-# NPCs Index
+# {{page.title}}
 
 [Main Index](../index)

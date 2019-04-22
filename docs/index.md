@@ -1,7 +1,7 @@
 ---
 title: Index
 ---
-# Index
+# {{page.title}}
 * [Main Factions/Nations](Factions/Summary)
   * [Imperos](Factions/Imperos/Summary)
   * [New Helios](Factions/New&#32;Helios/Summary)
