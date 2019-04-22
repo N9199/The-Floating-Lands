@@ -6,7 +6,7 @@ A city of magic, governed by [The Council of the Five Sages](../../NPCs/The&#32;
 
 ## Cities
 ###  The City of Aeria
-The city itself, it houses Ripyce, School of Magics, the biggest and greatest academy of magic in the realm. The city itself is lead by two of the Five Sages <!--Add names-->, while the academy is lead by one of them <!--Add name-->.
+The city itself, it houses Ripyce, School of Magics, the biggest and greatest academy of magic in the realm. The city itself is lead by [Faelar Harris](../../NPCs/Faelar&#32;Harris) and [Yasuhiro](../../NPCs/Yasuhiro), while the academy is lead by one of them <!--Add name-->.
 
 ## Towns
 ### Nova Aurora

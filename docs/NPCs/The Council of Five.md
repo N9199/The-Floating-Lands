@@ -24,7 +24,7 @@ A divine being, she's said to be the familiar of Elora, but that couldn't be fur
 
 ### Ko <!--Neko-->
 ###### School of Abjuration (Ripyce)
-The headmaster of Ripyce, and a cat. He's actually the familiar of Elora, but because of a freak magic accident he gained immortality, immense intelligence and the ability to change form into a catboy. After realizing that, Elora taught him magic, and his talent bloomed. He's been in charge of Ripyce, since it's inception, dealing with administrative work, research and teaching. Whenever he has time he talks with Yasuhiro about the alumni, the students and Elora.
+The headmaster of Ripyce, and a cat. He's actually the familiar of Elora, but because of a freak magic accident he gained immortality, immense intelligence and the ability to change form into a catboy. After realizing that, Elora taught him magic, and his talent bloomed. He's been in charge of Ripyce, since it's inception, dealing with administrative work, research and teaching. Whenever he has time he talks with Yasuhiro about the alumni, the students and Elora. It's clear he cares his students and Elora, and some even say that he has something with Yasuhiro. As the headmaster, and familiar of Elora, he looks for ways to protect them, as such,he researches abjuration.
 
 
 [NPCs Index](index)\\
