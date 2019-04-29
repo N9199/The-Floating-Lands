@@ -7,4 +7,4 @@ The Floating Lands is the name of a fantasy world which has two peculiar charact
 
 Maintainer: Nicholas Mc-Donnell (<namcdonnell@uc.cl>)
 
-[Index](../index)
+[Index](index)
