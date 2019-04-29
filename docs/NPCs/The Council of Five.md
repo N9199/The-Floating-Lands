@@ -6,7 +6,7 @@ The organization which leads [The City of Aeria](../Factions/The&#32;City&#32;of
 
 ## The Five Sages
 
-### Elora Aeran
+### [Elora Aeran](Elora&#32;Aeran)
 ###### School of Transmutation (Nova Aurora)
 An elf, who might as well be immortal, she founded The City of Aeria. She loves magic, and lives for magic, as so, she formed the council of five so she could focus on research. She leads the research team on [Nova Aurora](../Factions/The&#32;City&#32;of&#32;Aeria/Nova&#32;Aurora). Little is known of her personal life, other than her familial relation with Naexi, but there are abundant rumours; some say she has a secret lover, others that she's still pure, and still others think that she's lost her true love long ago. Contrasting her personal life, her academic life is well known by those in Aeria, her main research area is transmutation, though she's a master of most known magic.
 
