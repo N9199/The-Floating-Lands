@@ -16,7 +16,6 @@ The public leaders of Orion, as part of the initiation they are told the biggest
 - Military
 - Magic/Archeology
 
-
 ### [Avor, Gentle Mind](../../NPCs/Avor)
 
 An ancient gold dragon, he lived through the fall of Orion, and saw the suffering it caused, as such he decided to help & guide the remaining inhabitants. He's the true governor of Orion, but he's worked hard to keep it a secret, as such anyone who knows either highly respects him or fears him. One of his only friends is [Elora](<../../NPCs/Elora Aeran>), as both have helped each other in times of need through the centuries. His lair is deep under the city, but his influence spreads to all the city.

@@ -1,18 +1,20 @@
 ---
 title: Index
 ---
+
 # {{page.title}}
-* [Main Factions/Nations](Factions/Summary)
-  * [Imperos](Factions/Imperos/Summary)
-  * [New Helios](Factions/New&#32;Helios/Summary)
-  * [The City of Aeria](Factions/The&#32;City&#32;of&#32;Aeria/Summary)
-  * [The Gear Alliance](Factions/The&32;Gear&#32;Alliance/Summary)
-  * [Shadow Company](Factions/Shadow&#32;Company/Summary)
-* [Important People](NPCs/index)
-  * [Giraldus the Fourth](NPCs/Giraldus)
-  * [Elora Aeran](NPCs/Elora&#32;Aeran)
-  * [The Council of Five](NPCs/The&#32;Council&#32;of&#32;Five)
-* [Influential Places]()
-* [Map]()
+
+- [Main Factions/Nations](Factions/Summary)
+  - [Imperos](Factions/Imperos/Summary)
+  - [New Helios](<Factions/New Helios/Summary>)
+  - [The City of Aeria](<Factions/The City of Aeria/Summary>)
+  - [The Gear Alliance](<Factions/The Gear Alliance/Summary>)
+  - [Shadow Company](<Factions/Shadow Company/Summary>)
+- [Important People](NPCs/index)
+  - [Giraldus the Fourth](NPCs/Giraldus)
+  - [Elora Aeran](NPCs/Elora Aeran)
+  - [The Council of Five](<NPCs/The Council of Five>)
+- [Influential Places]()
+- [Map]()
 
 [About](about)

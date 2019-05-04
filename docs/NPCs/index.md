@@ -1,7 +1,12 @@
 ---
 title: "NPCs Index"
 ---
+
 # {{page.title}}
-* [Giraldus](Giraldus)
+
+- [Giraldus](Giraldus)
+- [Elora Aeran](<Elora Arean>)
+- [Razi Rajput](<Razi Rajput>)
+- [Avor, the Gentle Mind](Avor)
 
 [Main Index](../index)
