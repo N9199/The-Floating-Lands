@@ -12,7 +12,7 @@ title: Index
   - [Shadow Company](<Factions/Shadow Company/Summary>)
 - [Important People](NPCs/index)
   - [Giraldus the Fourth](NPCs/Giraldus)
-  - [Elora Aeran](NPCs/Elora Aeran)
+  - [Elora Aeran](<NPCs/Elora Aeran>)
   - [The Council of Five](<NPCs/The Council of Five>)
 - [Influential Places]()
 - [Map]()
