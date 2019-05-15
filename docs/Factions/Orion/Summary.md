@@ -10,7 +10,7 @@ A city of old magic, where it's said that spells have lain dormant for millennia
 
 ### [Orion](Orion)
 
-The city itself, it houses [Avor](../../NPCs/Avor), the Council of Wisdom and the biggest dungeon on the Floating Lands, an interconnected set of ruins and caves, a place where magic has been laying dormant for some millennia, a place which attracts scholars and artifact hunters alike.
+The city itself, it houses [Avor](../../NPCs/Avor), the Council of Wisdom and the biggest dungeon on Mistral, an interconnected set of ruins and caves, a place where magic has been laying dormant for some millennia, a place which attracts scholars and artifact hunters alike.
 
 ## Towns
 

@@ -7,6 +7,7 @@ title: "NPCs Index"
 - [Giraldus](Giraldus)
 - [Elora Aeran](<Elora Arean>)
 - [Razi Rajput](<Razi Rajput>)
-- [Avor, the Gentle Mind](Avor)
+- [Avor, Gentle Mind](Avor)
+- []()
 
 [Main Index](../index)

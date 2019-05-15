@@ -4,7 +4,7 @@ title: Orion
 
 # {{page.title}}
 
-A city managed by elders, and lead by an ancient dragon. As one of the oldest, if not the oldest city on the Floating Lands, it hides many secrets, as such scholars, looters and even adventurers, come for the chance to find forgotten artifacts, ancient spells or powerful weapons.
+A city managed by elders, and lead by an ancient dragon. As one of the oldest, if not the oldest city on Mistral, it hides many secrets, as such scholars, looters and even adventurers, come for the chance to find forgotten artifacts, ancient spells or powerful weapons.
 
 ## Important Citizens
 

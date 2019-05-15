@@ -18,7 +18,7 @@ Sometimes called the City of Steel or the City of Gold, Nova Spheris is the fina
 
 ### [The City of Iahu](<The City of Iahu>)
 
-Better known as the city of tragedies, as its been plagued by them since its inception, but its inhabitants carry on, having learned that there's always a next day. This city is what has triggered the last three power struggles on Imperos, as different disasters struck. At this moment, the only reason nations want this city is because of its impressive natural resources as within its borders it houses the biggest forges and mines on the Floating Lands, while having natural defenses against invaders.
+Better known as the city of tragedies, as its been plagued by them since its inception, but its inhabitants carry on, having learned that there's always a next day. This city is what has triggered the last three power struggles on Imperos, as different disasters struck. At this moment, the only reason nations want this city is because of its impressive natural resources as within its borders it houses the biggest forges and mines on Mistral, while having natural defenses against invaders.
 
 ## Towns
 

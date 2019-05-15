@@ -12,7 +12,7 @@ An ancient bronze dragon, and the owner and CEO of the Dragon's Lair. He set it 
 
 ## Interesting Locales
 
-- The Dragon's Lair main office (Greatest bank on the Floating Lands)
+- The Dragon's Lair main office (Greatest bank on Mistral)
 - The Drunken Dragon (Famous Tavern)
 
 [Summary](Summary)\\
