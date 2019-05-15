@@ -15,7 +15,7 @@ The Floating Lands, or as the locals call it, Mistral A land of mystery and old 
 - [Important People](NPCs/index)
   - [Giraldus the Fourth](NPCs/Giraldus)
   - [Avor, Gentle Mind](NPCs/Avor)
-  - [Elora Aeran](NPCs/Elora Aeran)
+  - [Elora Aeran](<NPCs/Elora Aeran>)
   - [The Council of Five](<NPCs/The Council of Five>)
 - [Influential Places]()
 - [Map]()

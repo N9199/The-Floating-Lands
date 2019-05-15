@@ -1,6 +1,7 @@
 ---
 title: "The Gear Alliance"
 ---
+
 # {{page.title}}
 
 [Factions Index](../Summary)\\
