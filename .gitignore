@@ -330,3 +330,4 @@ venv.bak/
 *.jar
 .DS_STORE
 *.tmp
+*/notes.md
