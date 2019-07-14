@@ -12,13 +12,9 @@ The Floating Lands, or as the locals call it, Mistral A land of mystery and old 
   - [The City of Aeria](<Factions/The City of Aeria/Summary>)
   - [The Gear Alliance](<Factions/The Gear Alliance/Summary>)
   - [Shadow Company](<Factions/Shadow Company/Summary>)
-- [Important People](NPCs/index)
-  - [Giraldus the Fourth](NPCs/Giraldus)
-  - [Avor, Gentle Mind](NPCs/Avor)
-  - [Elora Aeran](<NPCs/Elora Aeran>)
-  - [The Council of Five](<NPCs/The Council of Five>)
+- [NPC List](NPCs/index)
 - [Influential Places]()
 - [Map]()
 
-[Notes](notes)
+[Notes](notes)\\
 [About](about)

@@ -34,14 +34,14 @@ A list of the factions of this world, it's divided in nations and smaller factio
 - [Shadow Company](<Shadow Company/Summary>)
 - [The Gear Alliance](<The Gear Alliance/Summary>)
 - [The Light](<The Light/Summary>)
-- [The Order of the Ethereal Tome](<The Order of the Ethereal Tome>)
-- [The Silver Tear](<The Silver Tear>)
+- [The Order of the Ethereal Tome](<The Order of the Ethereal Tome/Summary>)
+- [The Silver Tear](<The Silver Tear/Summary>)
 
 ### Small Factions
 
-- [The Patriarch Sanctuary]()
-- [The Blue Boulder Tribe]()
-- [Duferra, School of The Arcane]()
-- [Children of Ulogar]()
+- [The Patriarch Sanctuary](<The Patriarch Sanctuary/Summary>)
+- [The Blue Boulder Tribe](<The Blue Boulder Tribe/Summary>)
+- [Duferra, School of The Arcane](Duferra/Summary)
+- [Children of Ulogar](<Children of Ulogar/Summary>)
 
 [Index](../../index)
