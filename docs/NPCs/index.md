@@ -8,12 +8,12 @@ title: "NPCs Index"
 
 - [Giraldus](Giraldus)
 - [Elora Aeran](<Elora Arean>)
-- [The Council of Five](<The Council of Five>)
+- [The Council of Five](<The_Council_of_Five>)
 - [Avor, Gentle Mind](Avor)
 
 ## Organization leaders
 
-- [Razi Rajput](<Razi Rajput>)
+- [Razi Rajput](<Razi_Rajput>)
 
 ## Powerful Free NPCs
 
@@ -24,6 +24,6 @@ title: "NPCs Index"
 - [Gentlestriders](Gentlestriders/Summary)
   - [Lokim](Gentlestriders/Lokim)
   - [Shakh](Gentlestriders/Shakh)
-  - Elf
+  - [Thalia](Gentlestriders/Thalia)
 
 [Main Index](../index)

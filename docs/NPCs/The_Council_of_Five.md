@@ -8,17 +8,17 @@ The organization which leads [The City of Aeria](<../Factions/The City of Aeria/
 
 ## The Five Sages
 
-### [Elora Aeran](<Elora Aeran>)
+### [Elora Aeran](<Elora_Aeran>)
 
 ###### Transmutation Magister (Nova Aurora)
 
-An elf, who might as well be immortal, she founded The City of Aeria. She loves magic, and lives for magic, as so, she formed the council of five so she could focus on research. She leads the research team on [Nova Aurora](<../Factions/The City of Aeria/Nova Aurora>). Little is known of her personal life, other than her familial relation with Naexi, but there are abundant rumours; some say she has a secret lover, others that she's still pure, and still others think that she's lost her true love long ago. Contrasting her personal life, her academic life is well known by those in Aeria, her main research area is transmutation, though she's a master of most known magic.
+An elf, who might as well be immortal, she founded The City of Aeria. She loves magic, and lives for magic, as so, she formed The_Council_of_Five so she could focus on research. She leads the research team on [Nova Aurora](<../Factions/The City of Aeria/Nova Aurora>). Little is known of her personal life, other than her familial relation with Naexi, but there are abundant rumours; some say she has a secret lover, others that she's still pure, and still others think that she's lost her true love long ago. Contrasting her personal life, her academic life is well known by those in Aeria, her main research area is transmutation, though she's a master of most known magic.
 
 ### Naexi Sylwynn
 
 ###### Evocation Magister (Zephyr)
 
-Aeria's supreme commander, she leads the mage army, navy and air-force. She swore to protect The City of Aeria, as Elora took her in and raised her, she know protects her home and the life project of Elora. As supreme commander, she has the biggest fire power and battle experience on Aeria, and maybe even in all of the realm, as a mage she researches evocation magic in between training the military forces. She adopted Traker, a tielfling, who escaped from the grasp of the order of [New Helios](<../Factions/New Helios/Summary>), he now teaches at Ripyce and sometimes serves as an sword fighting instructor for the army.
+Aeria's supreme commander, she leads the mage army, navy and air-force. She swore to protect The City of Aeria, as Elora took her in and raised her, she know protects her home and the life project of Elora. As supreme commander, she has the biggest fire power and battle experience on Aeria, and maybe even in all of the realm, as a mage she researches evocation magic in between training the military forces. She adopted Traker, a tielfling, who escaped from the grasp of the order of [New_Helios](<../Factions/New_Helios/Summary>), he now teaches at Ripyce and sometimes serves as an sword fighting instructor for the army.
 
 ### Faelar Herris
 

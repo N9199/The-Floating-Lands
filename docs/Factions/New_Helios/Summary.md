@@ -1,5 +1,5 @@
 ---
-title: "New Helios"
+title: "New_Helios"
 ---
 
 # {{page.title}}
@@ -8,7 +8,7 @@ A city dedicated to the Sun God, it's deeply religious and it's protected by the
 
 ## Cities
 
-### New Helios
+### New_Helios
 
 ## Towns
 
