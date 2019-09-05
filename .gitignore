@@ -331,3 +331,4 @@ venv.bak/
 .DS_STORE
 *.tmp
 */notes.md
+*.sh
