@@ -13,12 +13,15 @@ Part of it with Ashford
 ## Cities
 
 ### Glimmerbury
+Big industrial city, most engineers come from here
 
 ## Towns
 
 ### Volaris
+Big-ish agricultural/forester town
 
 ### Nova Cirrus
+Medium sized mining town
 
 [Factions Index](../Summary)\\
 [Main Index](../../index)

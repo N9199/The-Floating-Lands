@@ -24,7 +24,7 @@ The town closest to Orion, it also gives a great outlook to the valley where Ori
 
 ### Paledo
 
-The town which marks the end of [New_Helios's](../New_Helios/Summary) influence, many important mages have been born in this town, so many that people suspect the influence of a God. Though the closeness to New_Helios makes it so some claim that it must be that Helios has blessed this area, and as such, it must be under the control of the Helios Order. While locals know that this is sacred site for Iesis, the patron of magic and the god of the arcane.
+The town which marks the end of [New_Helios's](../New_Helios/Summary) influence, many important mages have been born in this town, so many that people suspect the influence of a God. Though the closeness to New Helios makes it so some claim that it must be that Helios has blessed this area, and as such, it must be under the control of the Helios Order. While locals know that this is sacred site for Iesis, the patron of magic and the god of the arcane.
 
 [Factions Index](../Summary)\\
 [Main Index](../../index)

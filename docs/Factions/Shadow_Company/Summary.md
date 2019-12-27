@@ -2,7 +2,7 @@
 title: "Shadow Company"
 ---
 
-# {{page.title}}
+# {{page.title}} (AKA Raven Enterprises)
 
 [Factions Index](../Summary)\\
 [Index](../../index)
