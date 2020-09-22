@@ -23,9 +23,9 @@ A list of the factions of this world, it's divided in nations and smaller factio
 
 ### Domains
 
-- [Naenia](Naenia/Summary)
-- [Hovia](Hovia/Summary)
-- [Doning](Doning/Summary)
+- [Naenia](Naenia/Summary) <!-- -->
+- [Hovia](Hovia/Summary) <!-- "Lost" mostly lush island of refugees -->
+- [Doning](Doning/Summary) <!-- -->
 
 ## Non-Nations
 

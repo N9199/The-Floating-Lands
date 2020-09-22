@@ -20,7 +20,7 @@ An old agricultural outpost of Orion, most food on Orion comes from here, but it
 
 ### Ockford
 
-The town closest to Orion, it also gives a great outlook to the valley where Orion itself is located. Ockford, is a town no redeeming qualities other than its strategic location, though the marvelous view and closeness to real civilization has persuaded many nobles from other lands to come and build a winter retreat, this has made it a popular place to hold negotiations between allies of Orion.
+The town closest to Orion, it also gives a great outlook to the valley where Orion itself is located. Ockford, is a town with no redeeming qualities other than its strategic location, though the marvelous view and closeness to real civilization has persuaded many nobles from other lands to come and build a winter retreat, this has made it a popular place to hold negotiations between allies of Orion.
 
 ### Paledo
 

@@ -18,7 +18,7 @@ The public leaders of Orion, as part of the initiation they are told the biggest
 
 ### [Avor, Gentle Mind](../../NPCs/Avor)
 
-An ancient gold dragon, he lived through the fall of Orion, and saw the suffering it caused, as such he decided to help & guide the remaining inhabitants. He's the true governor of Orion, but he's worked hard to keep it a secret, as such anyone who knows either highly respects him or fears him. One of his only friends is [Elora](../../NPCs/Elora_Aeran), as both have helped each other in times of need through the centuries. His lair is deep under the city, but his influence spreads to all the city.
+An ancient gold dragon, he lived through the fall of Orion, and saw the suffering it caused, as such he decided to help & guide the remaining inhabitants. He's the true governor of Orion, but he's worked hard to keep it a secret, as such anyone who knows either highly respects him or fears him. One of his only friends is [Elora](../../NPCs/Leaders_of_Aeria/Elora_Aeran), as both have helped each other in times of need through the centuries. His lair is deep under the city, but his influence spreads to all the city.
 
 ### Wolfram the Fifth, Marquis of House Spinella
 
@@ -34,7 +34,7 @@ Formerly a half-elf, the bastard child of the previous head of House Rivella, wh
 
 ### [Razi Rajput](../../NPCs/Razi_Rajput)
 
-The leader of the [Shadow Company](<../Shadow Company/Summary/>), he found and cleared part of the Mega-Dungeon which exists under Orion, there he built the main base of operations of the Shadow Company, using some of the magic artifacts found there. He's ruthless, but keeps his words, the inhabitants of Orion see him every so often wandering around.
+The leader of the [Shadow Company](../Shadow_Company/Summary), he found and cleared part of the Mega-Dungeon which exists under Orion, there he built the main base of operations of the Shadow Company, using some of the magic artifacts found there. He's ruthless, but keeps his words, the inhabitants of Orion see him every so often wandering around.
 
 ## Interesting Locales
 

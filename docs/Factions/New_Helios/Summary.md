@@ -8,7 +8,7 @@ A city dedicated to the Sun God, it's deeply religious and it's protected by the
 
 ## Cities
 
-### New_Helios
+### New Helios
 
 ## Towns
 

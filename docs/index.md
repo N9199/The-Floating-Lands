@@ -13,8 +13,8 @@ The Floating Lands, or as the locals call it, Mistral. A land of mystery and old
   - [The Gear Alliance](Factions/The_Gear_Alliance/Summary)
   - [Shadow Company](Factions/Shadow_Company/Summary)
 - [NPC List](NPCs/index)
-- [Influential Places]()
-- [Map]()
+- [Interesting Places](places)
+- [Map](Map/index)
 
 [Notes](notes)\\
 [About](about)

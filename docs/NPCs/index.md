@@ -7,13 +7,17 @@ title: "NPCs Index"
 ## Nation leaders
 
 - [Giraldus](Giraldus)
-- [Elora Aeran](Elora_Arean)
-- [The Council of Five](The_Council_of_Five)
+- [Elora Aeran](Leaders_of_Aeria/Elora_Arean)
+- [The Council of Five](Leaders_of_Aeria/The_Council_of_Five)
 - [Avor, Gentle Mind](Avor)
 
 ## Organization leaders
 
 - [Razi Rajput](Razi_Rajput)
+
+## [Leaders of Aeria](Leaders_of_Aeria/index)
+
+- [Elora Aeran](Leaders_of_Aeria/Elora_Arean)
 
 ## Powerful Free NPCs
 
