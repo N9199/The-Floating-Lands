@@ -30,13 +30,17 @@ The one who faces the outside world in place of the council, as such he's seldom
 
 ###### Divination Magister (Aeria, Internal)
 
-A divine being, she's said to be the familiar of Elora, but that couldn't be further from the truth. While travelling through this plane, Yasuhiro met Elora and became friends with her when they realized their mutual love of magic. Later, she found her place on Aeria, and as a favour to Elora she deals with the internal management of Aeria, which is easy for a divine messenger. In her free time she furthers divination magic and helps Elora at Nova Aurora.
+A divine being, she's said to be the familiar of Elora, but that couldn't be further from the truth. While travelling through this plane, Yasuhiro met Elora and became fast friends with her when they realized their mutual love of magic. Later, she found her place on Aeria, and as a favour to Elora she deals with the internal management of Aeria, which is easy for a divine messenger. In her free time she furthers divination magic and helps Elora at Nova Aurora.
 
 ### Ko <!--Neko-->
 
 ###### Abjuration Magister (Ripyce)
 
-The headmaster of Ripyce, and a cat. He's actually the familiar of Elora, but because of a freak magic accident he gained immortality, immense intelligence and the ability to change form into a catboy. After realizing that, Elora taught him magic, and his talent bloomed. He's been in charge of Ripyce, since it's inception, dealing with administrative work, research and teaching. Whenever he has time he talks with Yasuhiro about the alumni, the students and Elora. It's clear he cares his students and Elora, and some even say that he has something with Yasuhiro. As the headmaster, and familiar of Elora, he looks for ways to protect them, as such, he researches abjuration.
+The headmaster of Ripyce, and a cat. He's actually the familiar of Elora, but because of a freak magic accident he gained immortality, immense intelligence and the ability to change form into a catboy[^1]. After realizing that, Elora taught him magic, and his talent bloomed. He's been in charge of Ripyce, since it's inception, dealing with administrative work, research and teaching. Whenever he has time he talks with Yasuhiro about the alumni, the students and Elora. It's clear he cares his students and Elora, and some even say that he has something with Yasuhiro. As the headmaster, and familiar of Elora, he looks for ways to protect them, as such, he researches abjuration.
+
+
+[^1]: TODO This needs a better descriptor
+
 
 [NPCs Index](../index)\\
 [Main Index](../../index)

@@ -16,6 +16,7 @@ A list of the factions of this world, it's divided in nations and smaller factio
 
 - [New Helios](New_Helios/Summary) <!-- Ultra Religious City -->
 - [The City of Aeria](The_City_of_Aeria/Summary) <!-- Hidden Magic City -->
+- [Name TBD](Fantasy_Las_Vegas/Summary) <!-- Fantasy Las Vegas, see: https://nukaposting.tumblr.com/post/654548415348391936/biblioprincessdalian-ive-never-been-to-las-vegas -->
 - [Gale](Gale/Summary) <!-- A City -->
 - [Glimmerbury](Glimmerbury/Summary) <!-- SteamPunk City -->
 - [Ashford](Ashford/Summary) <!-- SteamPunk City -->
